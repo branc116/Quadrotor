@@ -1,6 +1,8 @@
 # Quadrotor
 Quadrotor made with esp8266 with nodeMCU and lua
 
+![Alt text](quad.jpg)
+
 For this quad you will need:
 * esp8266 esp-12 with nodeMCU framework
 * 4 motors 
@@ -9,6 +11,8 @@ For this quad you will need:
 * RoboRemo App
 * Pvc
 * 3.7v LiPo battery with 3c rating or more
+
+![Alt text](Quad Controler.jpg)
 
 To make it work you'll have to:
 * Make an more or less symmetrical case 
