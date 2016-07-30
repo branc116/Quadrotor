@@ -23,7 +23,7 @@ To make it work you'll have to:
 * Push all the .lua files to your esp
 * fly
 
-My didn't work becouse I connected my motors to 7.2v and one of the motors burned...
+My didn't work because I connected my motors to 7.2v and one of the motors burned...
 
 But I think software is more or less stable.
 
